@@ -1,5 +1,5 @@
 const clientId = 'daaddf70c74e493a9e910a80f1648624'
-const redirectUri = 'jammming-spotify-api.vercel.app'
+const redirectUri = 'http://jammming-spotify-api.vercel.app'
 
 let accessToken
 
